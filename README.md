@@ -1,3 +1,3 @@
-# Aragon React Boilerplate
+# Aragon Buidler Boilerplate
 
 To be updated
