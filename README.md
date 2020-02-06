@@ -50,8 +50,6 @@ root
 
 To run the app in a browser with front end plus back end hot reloading, simply run `npm start`.
 
-_Note: Right now, the Aragon Buidler plugin requires an aragen local chain running in the background, so, before running `npm start`, please install aragonCLI globally and run `aragon devchain start`. This will not be required soon._
-
 ## What's in this boilerplate?
 
 ### npm Scripts

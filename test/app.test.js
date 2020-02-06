@@ -36,6 +36,6 @@ contract('CounterApp', ([appManager, user]) => {
   })
 
   it('should not be decremented beyond 0', async () => {
-    await assertRevert(app.decrement(INIT_VALUE + 1), 'MATH_SUB_UNDERFLOW')
+    await assertRevert(app.decrement(INIT_VALUE + 1))
   })
 })
