@@ -33,10 +33,6 @@ module.exports = {
     clientServePort: 3000,
     appSrcPath: 'app/',
     appBuildOutputPath: 'dist/',
-    hooks: {
-      getInitParams: (bre) => {
-        return [42]
-      }
-    }
+    hooks: require('./scripts/buidler-hooks')
   }
 }
