@@ -3,11 +3,11 @@
 > 🕵️ [Find more boilerplates using GitHub](https://github.com/search?q=topic:aragon-boilerplate) |
 > ✨ [Official boilerplates](https://github.com/search?q=topic:aragon-boilerplate+org:aragon)
 
+> ⚠️ This boilerplate has been integrated into [`aragon-react-boilerplate`](https://github.com/aragon/aragon-react-boilerplate) and is deprecated.
+
 Buidler + React boilerplate for Aragon applications.
 
 This boilerplate includes a fully working example app, complete with a background worker and a front-end in React (with Aragon UI).
-
-_Note: This is an experimental boilerplate for developing Aragon applications. For a more stable boilerplate, please use aragon-react-boilerplate._
 
 ## Usage
 
